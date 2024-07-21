@@ -15,13 +15,13 @@
 
 
 
- ## KINSTON_TWEED DEPLOYMENT
+ KINSTON_TWEED DEPLOYMENT
 
  
 
 •FORK THIS REPO
  <br>
- <a href='https://github.com/Cod3Uchiha/TKM-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+ <a href='https://github.com/joeljamestech/KINSTON_TWEED/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
  GET SESSION ID HERE
  <br>
