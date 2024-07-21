@@ -2,7 +2,7 @@
  KINSTON_TWEED
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines= THIS IS +KINSTON_TWEED-MDbot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines= THIS IS +KINSTON_TWEED-MD BOT;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 •NOW DEPLOY.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Cod3Uchiha/TKM-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='http://dashboard.heroku.com/new?template=https://github.com/joeljamestech/KINSTON_TWEED/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 **DEVELOPERS**
