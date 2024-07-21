@@ -25,7 +25,7 @@
 
  GET SESSION ID HERE
  <br>
- <a href='https://cod3uchiha1-bfca01cac304.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+ <a href='' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOY ON HEROKU**
 
