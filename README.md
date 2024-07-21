@@ -6,8 +6,8 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha">
-    <img alt="KINSTON_TWEEDbot logo" height="200" src="https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg">
+  <a href="https://github.com/joeljamestech2">
+    <img alt="KINSTON_TWEED BOT logo" height="200" src="https://telegra.ph/file/52df3aa2b366e5743caae.jpg">
   </a>
 </p>
 
@@ -46,7 +46,7 @@
     <td>joeljames tech</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg" width="180"</td>
+    <td><a https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg"><img src="https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg" width="180"</td>
     <td><a href="https://github.com/joeljamestech"><img src="https://telegra.ph/file/7a5b94ba64048a83725d2.jpg" width="180"</td>
   </tr>
 </table>
