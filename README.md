@@ -12,9 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha?tab=follower
 
- **KINSTON_TWEED DEPLOYMENT**
+
+
+ ## KINSTON_TWEED DEPLOYMENT
+
+ 
 
 •FORK THIS REPO
  <br>
@@ -43,8 +46,8 @@
     <td>joeljames tech</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/joeljamestech"><img src="https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg" width="180"</td>
+    <td><a href="https://github.com/DannyAkintunde"><img src="https://telegra.ph/file/e5105667b8bcc37a0ec9a.jpg" width="180"</td>
+    <td><a href="https://github.com/joeljamestech"><img src="https://telegra.ph/file/7a5b94ba64048a83725d2.jpg" width="180"</td>
   </tr>
 </table>
 
